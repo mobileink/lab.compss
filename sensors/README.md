@@ -7,21 +7,21 @@ Computation
 Offloading](https://www.cl.cam.ac.uk/~cm542/phds/kiranrachuri.pdf)
 (PDF) Rachuri, Kiran K.; PhD Thesis, 2012, University of Cambridge
 
-[Mobile Sensing Systems](doi:10.3390/s131217292) Elsa Macias, Alvaro
+[Mobile Sensing Systems](http://dx.doi.org/10.3390/s131217292) Elsa Macias, Alvaro
 Suarez, and Jaime Lloret; *Sensors* 2013, 13(12), 17292-17321
 
-[A Survey of Mobile Phone Sensing](10.1109/MCOM.2010.5560598) Lane,
+[A Survey of Mobile Phone Sensing](http://dx.doi.org/10.1109/MCOM.2010.5560598) Lane,
 N.D. et al.; Communications Magazine, IEEE (Volume:48 , Issue: 9 )
 Sept 2010
 
 [Mobile Phone Sensing Systems: A
-Survey](10.1109/SURV.2012.031412.00077) Khan, W.Z. ; Jazan Univ.,
+Survey](http://dx.doi.org/10.1109/SURV.2012.031412.00077) Khan, W.Z. ; Jazan Univ.,
 Jazan, Saudi Arabia ; Yang Xiang ; Aalsalem, M.Y. ; Arshad, Q.;
 Communications Surveys & Tutorials, IEEE (Volume:15 , Issue: 1 ) First
 Quarter 2013
 
 [Fusing Mobile, Sensor, and Social Data To Fully Enable Context-Aware
-Computing](doi:10.1145/1734583.1734599) Beach, A. et al.; HotMobile
+Computing](http://dx.doi.org/10.1145/1734583.1734599) Beach, A. et al.; HotMobile
 '10 Proceedings of the Eleventh Workshop on Mobile Computing Systems &
 Applications 2010 Pages 60-65
 
@@ -47,8 +47,6 @@ Methods](http://www.cl.cam.ac.uk/~nkl25/publications/papers/lathia_ubicomp13.pdf
 ACM International Joint Conference on Pervasive and Ubiquitous
 Computing. Zurich, Switzerland. September 8-12, 2013
 
-### F
-
 ## Libraries and Frameworks
 
 ### Emotion Sense libs
@@ -69,7 +67,7 @@ MIT Media Lab. The core concept is to provide an open source, reusable
 set of functionalities, enabling the collection, uploading, and
 configuration of a wide range of data types."
 
-### MyExperience
+### [MyExperience](http://myexperience.sourceforge.net/)
 
 "MyExperience is a context-aware data collection platform for
 capturing objective and subjective data as it's experienced."
