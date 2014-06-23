@@ -25,6 +25,8 @@ Computing](http://dx.doi.org/10.1145/1734583.1734599) Beach, A. et al.; HotMobil
 '10 Proceedings of the Eleventh Workshop on Mobile Computing Systems &
 Applications 2010 Pages 60-65
 
+(A web search will find available copies of most of these papers.)
+
 ## Applications
 
 ### [Emotion Sense](http://www.emotionsense.org/)
@@ -46,6 +48,29 @@ Dissonance: Design Bias in Sensor-Based Experience Sampling
 Methods](http://www.cl.cam.ac.uk/~nkl25/publications/papers/lathia_ubicomp13.pdf). In
 ACM International Joint Conference on Pervasive and Ubiquitous
 Computing. Zurich, Switzerland. September 8-12, 2013
+
+
+### [Purple Robot](http://tech.cbits.northwestern.edu/purple-robot/)
+
+From CBITs [Center for Behavioral Intervention
+Technologies](http://cbits.northwestern.edu/) at Northwestern
+University.
+
+"... provides the following major features for constructing
+context-aware interventions and experiences: A full real-time sensor
+data acquisition platform for collecting information about the user
+and their immediate surroundings...Robust Javascript & Scheme
+scripting engines...A robust store-and-forward architecture for
+transmitting sensor data and user-provided information to custom data
+warehouses...A full trigger framework for defining conditions when
+scripted actions should occur."
+
+[Purple Robot Introduction](http://tech.cbits.northwestern.edu/2013/01/purple-robot-introduction/)
+
+[Source code](https://github.com/cbitstech/Purple-Robot-Manager)
+"Android app for providing automation and management services to apps
+not supporting the full Android feature set (background processing,
+notifications, etc.)."
 
 ## Libraries and Frameworks
 
