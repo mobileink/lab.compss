@@ -17,3 +17,13 @@ A laboratory for exploring Computational Social Science
 * [The new quantitative revolution](http://dx.doi.org/10.1177/2043820614525732) Wyly, Elvin; Dialogues in Human Geography March 2014 vol. 4 no. 1 26-38
 
 * [Big Data, new epistemologies and paradigm shifts](http://dx.doi.org/10.1177/2053951714528481) Kitchin, Rob; Big Data & Society April-June 2014 vol. 1 no. 1
+
+## Topics
+
+* Big Data
+* Sensors
+* Machine Learning
+* Data Mining
+* Simulation
+* Network Analysis
+* etc.
