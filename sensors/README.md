@@ -90,3 +90,7 @@ capturing objective and subjective data as it's experienced." Windows Mobile onl
 
 
 See also [Sensors](https://github.com/mobileink/lab.mobile/tree/master/android/sensors)
+
+## Hardware
+
+* [Sensorcon](http://sensorcon.com/) Environmental sensor devices
